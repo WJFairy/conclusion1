@@ -17,7 +17,7 @@ HTML 不是一种编程语言，而是一种标记语言 (markup language)。
 <title></title>  文档的标题
 <body></body>    文档的主体，基本所有的内容都是放在body里的
 ## 4、html中的各类标签
-~~~
+```
 a	Anchor	锚
 abbr	Abbreviation	缩写词
 acronym	Acronym	取首字母的缩写词
@@ -72,7 +72,7 @@ tt	Teletype	打印机（文本）
 u	Underlined	下划线（文本）
 ul	Unordered List	不排序列表
 var	Variable	变量（文本）
-~~~
+```
 ----
 # css
 ## 1、什么是css
