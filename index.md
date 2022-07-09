@@ -73,10 +73,9 @@ u	Underlined	下划线（文本）
 ul	Unordered List	不排序列表
 var	Variable	变量（文本）
 ```
-----
-# css
+--------
 ## 1、什么是css
-CSS 指层叠样式表 (Cascading Style Sheets)
+### CSS 指层叠样式表 (Cascading Style Sheets)
 样式定义如何显示 HTML 元素
 外部样式表通常存储在 CSS 文件中
 多个样式定义可层叠为一个
